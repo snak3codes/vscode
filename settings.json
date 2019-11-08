@@ -1,0 +1,49 @@
+{
+    "editor.rulers": [
+        75,
+        120
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff4081",
+    },
+    "window.zoomLevel": 0,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Menlo",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.jediEnabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "python.pythonPath": "/anaconda3/bin/python",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "python.formatting.provider": "autopep8",
+    "git.autofetch": true,
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "gitlens.hovers.currentLine.over": "line",
+    "terminal.integrated.fontFamily": "Monaco",
+    "terminal.integrated.fontSize": 14,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.cursorStyle": "line",
+    "editor.autoClosingBrackets": "always",
+    "vscode_custom_css.imports": [
+        // "file:///Users/snak3/synthwave84.css"
+    ],
+    "vscode_custom_css.policy": false,
+    "color-highlight.markerType": "foreground",
+    "editor.fontLigatures": true,
+    "editor.minimap.renderCharacters": false,
+    "workbench.colorTheme": "Monokai Pro",
+    // "editor.renderWhitespace": "all",
+}
